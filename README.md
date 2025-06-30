@@ -1,6 +1,3 @@
-# heart-rate-monitor-using-ASLK
-
-
 
 # Heart Rate Monitoring using ASLK
 
